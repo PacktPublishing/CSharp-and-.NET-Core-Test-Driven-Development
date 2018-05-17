@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Cake Scripts", "Cake Scripts", "{5560A3AB-DA3A-47B1-B27A-497BBF97BA39}"
+	ProjectSection(SolutionItems) = preProject
+		build.cake = build.cake
+		build1.cake = build1.cake
+		build2.cake = build2.cake
+		build3.cake = build3.cake
+		build4.cake = build4.cake
+		cake.config = cake.config
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoanApplication", "LoanApplication\LoanApplication.csproj", "{CAD586E3-2C99-40D0-9A85-D4A29DDB2C31}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoanApplication.Core", "LoanApplication.Core\LoanApplication.Core.csproj", "{951595EA-0F33-4CD6-A970-F22697154EA3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoanApplication.Tests.Unit", "LoanApplication.Tests.Unit\LoanApplication.Tests.Unit.csproj", "{7217E24C-0F76-4CF7-B74B-D137EB0F874B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extensions", "Extensions\Extensions.csproj", "{2AA1112E-077F-4ADF-83C9-BD0709BFCD25}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1ED8256B-7F50-43A4-983F-0E29B8618069}"
+	ProjectSection(SolutionItems) = preProject
+		build.ps1 = build.ps1
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAD586E3-2C99-40D0-9A85-D4A29DDB2C31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD586E3-2C99-40D0-9A85-D4A29DDB2C31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD586E3-2C99-40D0-9A85-D4A29DDB2C31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD586E3-2C99-40D0-9A85-D4A29DDB2C31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{951595EA-0F33-4CD6-A970-F22697154EA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{951595EA-0F33-4CD6-A970-F22697154EA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{951595EA-0F33-4CD6-A970-F22697154EA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{951595EA-0F33-4CD6-A970-F22697154EA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7217E24C-0F76-4CF7-B74B-D137EB0F874B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7217E24C-0F76-4CF7-B74B-D137EB0F874B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7217E24C-0F76-4CF7-B74B-D137EB0F874B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7217E24C-0F76-4CF7-B74B-D137EB0F874B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AA1112E-077F-4ADF-83C9-BD0709BFCD25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AA1112E-077F-4ADF-83C9-BD0709BFCD25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AA1112E-077F-4ADF-83C9-BD0709BFCD25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AA1112E-077F-4ADF-83C9-BD0709BFCD25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDE1249C-87EC-4680-887A-168AAE36B7EE}
+	EndGlobalSection
+EndGlobal
