@@ -1,5 +1,5 @@
-# C# and .NET Core Test Driven Development
-This is the code repository for [C# and .NET Core Test Driven Development](https://www.packtpub.com/application-development/c-7-test-driven-development?utm_source=github&utm_medium=repository&utm_campaign=9781788292481), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
+# C# and .NET Core Test-Driven Development
+This is the code repository for [C# and .NET Core Test-Driven Development](https://www.packtpub.com/application-development/c-7-test-driven-development?utm_source=github&utm_medium=repository&utm_campaign=9781788292481), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 This book guides developers to create robust, production-ready C# 7 and .NET Core applications through the practice of test-driven development process.
 
