@@ -1,0 +1,12 @@
+c:\users\aa185298\Source\repos\Chapter3\LoanApplication.Core\bin\Debug\netcoreapp2.0\LoanApplication.Core.deps.json
+c:\users\aa185298\Source\repos\Chapter3\LoanApplication.Core\bin\Debug\netcoreapp2.0\LoanApplication.Core.dll
+c:\users\aa185298\Source\repos\Chapter3\LoanApplication.Core\bin\Debug\netcoreapp2.0\LoanApplication.Core.pdb
+c:\users\aa185298\Source\repos\Chapter3\LoanApplication.Core\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.dll
+c:\users\aa185298\Source\repos\Chapter3\LoanApplication.Core\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.xml
+c:\users\aa185298\Source\repos\Chapter3\LoanApplication.Core\obj\Debug\netcoreapp2.0\LoanApplication.Core.csprojResolveAssemblyReference.cache
+c:\users\aa185298\Source\repos\Chapter3\LoanApplication.Core\obj\Debug\netcoreapp2.0\LoanApplication.Core.csproj.CoreCompileInputs.cache
+c:\users\aa185298\Source\repos\Chapter3\LoanApplication.Core\obj\Debug\netcoreapp2.0\LoanApplication.Core.AssemblyInfoInputs.cache
+c:\users\aa185298\Source\repos\Chapter3\LoanApplication.Core\obj\Debug\netcoreapp2.0\LoanApplication.Core.AssemblyInfo.cs
+c:\users\aa185298\Source\repos\Chapter3\LoanApplication.Core\obj\Debug\netcoreapp2.0\LoanApplication.Core.csproj.CopyComplete
+c:\users\aa185298\Source\repos\Chapter3\LoanApplication.Core\obj\Debug\netcoreapp2.0\LoanApplication.Core.dll
+c:\users\aa185298\Source\repos\Chapter3\LoanApplication.Core\obj\Debug\netcoreapp2.0\LoanApplication.Core.pdb

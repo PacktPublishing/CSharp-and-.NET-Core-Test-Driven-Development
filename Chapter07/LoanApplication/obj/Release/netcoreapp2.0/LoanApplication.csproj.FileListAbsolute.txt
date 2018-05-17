@@ -1,0 +1,12 @@
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication\bin\Release\netcoreapp2.0\LoanApplication.deps.json
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication\bin\Release\netcoreapp2.0\LoanApplication.runtimeconfig.json
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication\bin\Release\netcoreapp2.0\LoanApplication.runtimeconfig.dev.json
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication\bin\Release\netcoreapp2.0\LoanApplication.dll
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication\bin\Release\netcoreapp2.0\LoanApplication.pdb
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication\bin\Release\netcoreapp2.0\LoanApplication.Core.dll
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication\bin\Release\netcoreapp2.0\LoanApplication.Core.pdb
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication\obj\Release\netcoreapp2.0\LoanApplication.csproj.CoreCompileInputs.cache
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication\obj\Release\netcoreapp2.0\LoanApplication.AssemblyInfoInputs.cache
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication\obj\Release\netcoreapp2.0\LoanApplication.AssemblyInfo.cs
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication\obj\Release\netcoreapp2.0\LoanApplication.dll
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication\obj\Release\netcoreapp2.0\LoanApplication.pdb

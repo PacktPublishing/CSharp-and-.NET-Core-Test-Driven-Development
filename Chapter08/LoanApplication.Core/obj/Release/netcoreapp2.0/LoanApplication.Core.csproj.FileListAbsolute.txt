@@ -1,0 +1,8 @@
+G:\Chapter8\LoanApplication.Core\bin\Release\netcoreapp2.0\LoanApplication.Core.deps.json
+G:\Chapter8\LoanApplication.Core\bin\Release\netcoreapp2.0\LoanApplication.Core.dll
+G:\Chapter8\LoanApplication.Core\bin\Release\netcoreapp2.0\LoanApplication.Core.pdb
+G:\Chapter8\LoanApplication.Core\obj\Release\netcoreapp2.0\LoanApplication.Core.csproj.CoreCompileInputs.cache
+G:\Chapter8\LoanApplication.Core\obj\Release\netcoreapp2.0\LoanApplication.Core.AssemblyInfoInputs.cache
+G:\Chapter8\LoanApplication.Core\obj\Release\netcoreapp2.0\LoanApplication.Core.AssemblyInfo.cs
+G:\Chapter8\LoanApplication.Core\obj\Release\netcoreapp2.0\LoanApplication.Core.dll
+G:\Chapter8\LoanApplication.Core\obj\Release\netcoreapp2.0\LoanApplication.Core.pdb

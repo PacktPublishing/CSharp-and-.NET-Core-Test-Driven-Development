@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extensions", "Extensions\Extensions.csproj", "{2AA1112E-077F-4ADF-83C9-BD0709BFCD25}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoanApplication", "LoanApplication\LoanApplication.csproj", "{7AD4307D-64AC-4A20-952E-F72FC732AD90}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{80BAE491-3E08-4C13-84AF-4A6152D7BBFE}"
+	ProjectSection(SolutionItems) = preProject
+		build.cake = build.cake
+		build.ps1 = build.ps1
+		cake.config = cake.config
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoanApplication.Tests.Unit", "LoanApplication.Tests.Unit\LoanApplication.Tests.Unit.csproj", "{2452CE20-B403-4279-9508-324DD93CD5B5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoanApplication.Core", "LoanApplication.Core\LoanApplication.Core.csproj", "{1353BA62-FF07-488D-8B49-72615E15C9A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AA1112E-077F-4ADF-83C9-BD0709BFCD25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AA1112E-077F-4ADF-83C9-BD0709BFCD25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AA1112E-077F-4ADF-83C9-BD0709BFCD25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AA1112E-077F-4ADF-83C9-BD0709BFCD25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AD4307D-64AC-4A20-952E-F72FC732AD90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AD4307D-64AC-4A20-952E-F72FC732AD90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AD4307D-64AC-4A20-952E-F72FC732AD90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AD4307D-64AC-4A20-952E-F72FC732AD90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2452CE20-B403-4279-9508-324DD93CD5B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2452CE20-B403-4279-9508-324DD93CD5B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2452CE20-B403-4279-9508-324DD93CD5B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2452CE20-B403-4279-9508-324DD93CD5B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1353BA62-FF07-488D-8B49-72615E15C9A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1353BA62-FF07-488D-8B49-72615E15C9A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1353BA62-FF07-488D-8B49-72615E15C9A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1353BA62-FF07-488D-8B49-72615E15C9A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD337555-AC33-4C60-BC48-EE95B75900A3}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,27 @@
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\Extensions\bin\Release\Extensions.dll
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\Extensions\bin\Release\Extensions.pdb
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\Extensions\bin\Release\xunit.abstractions.dll
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\Extensions\bin\Release\xunit.assert.dll
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\Extensions\bin\Release\xunit.core.dll
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\Extensions\bin\Release\xunit.execution.desktop.dll
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\Extensions\bin\Release\xunit.abstractions.xml
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\Extensions\bin\Release\xunit.assert.xml
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\Extensions\bin\Release\xunit.core.xml
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\Extensions\bin\Release\xunit.execution.desktop.xml
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\Extensions\obj\Release\Extensions.csproj.CoreCompileInputs.cache
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\Extensions\obj\Release\Extensions.dll
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\Extensions\obj\Release\Extensions.pdb
+G:\Chapter8\Extensions\bin\Release\Extensions.dll
+G:\Chapter8\Extensions\bin\Release\Extensions.pdb
+G:\Chapter8\Extensions\bin\Release\xunit.abstractions.dll
+G:\Chapter8\Extensions\bin\Release\xunit.assert.dll
+G:\Chapter8\Extensions\bin\Release\xunit.core.dll
+G:\Chapter8\Extensions\bin\Release\xunit.execution.desktop.dll
+G:\Chapter8\Extensions\bin\Release\xunit.abstractions.xml
+G:\Chapter8\Extensions\bin\Release\xunit.assert.xml
+G:\Chapter8\Extensions\bin\Release\xunit.core.xml
+G:\Chapter8\Extensions\bin\Release\xunit.execution.desktop.xml
+G:\Chapter8\Extensions\obj\Release\Extensions.csproj.CoreCompileInputs.cache
+G:\Chapter8\Extensions\obj\Release\Extensions.csproj.CopyComplete
+G:\Chapter8\Extensions\obj\Release\Extensions.dll
+G:\Chapter8\Extensions\obj\Release\Extensions.pdb

@@ -1,0 +1,71 @@
+C:\Users\ayobami\book\LoanApplication\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\LoanApplication.dll
+C:\Users\ayobami\book\LoanApplication\LoanApplication.Tests.Unit\obj\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.csprojResolveAssemblyReference.cache
+C:\Users\ayobami\book\LoanApplication\LoanApplication.Tests.Unit\obj\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.csproj.CoreCompileInputs.cache
+C:\Users\ayobami\book\LoanApplication\LoanApplication.Tests.Unit\obj\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.AssemblyInfoInputs.cache
+C:\Users\ayobami\book\LoanApplication\LoanApplication.Tests.Unit\obj\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.AssemblyInfo.cs
+C:\Users\ayobami\book\LoanApplication\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\ayobami\book\LoanApplication\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.deps.json
+C:\Users\ayobami\book\LoanApplication\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.runtimeconfig.json
+C:\Users\ayobami\book\LoanApplication\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.runtimeconfig.dev.json
+C:\Users\ayobami\book\LoanApplication\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.dll
+C:\Users\ayobami\book\LoanApplication\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.pdb
+C:\Users\ayobami\book\LoanApplication\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\LoanApplication.Core.dll
+C:\Users\ayobami\book\LoanApplication\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\LoanApplication.Core.pdb
+C:\Users\ayobami\book\LoanApplication\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\LoanApplication.pdb
+C:\Users\ayobami\book\LoanApplication\LoanApplication.Tests.Unit\obj\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.dll
+C:\Users\ayobami\book\LoanApplication\LoanApplication.Tests.Unit\obj\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.pdb
+C:\Users\ayobami\book\LoanApplication\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\ayobami\book\LoanApplication\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\ayobami\book\LoanApplication\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\Extensions.dll
+C:\Users\ayobami\book\LoanApplication\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\Extensions.pdb
+C:\Users\ayobami\book\LoanApplication\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\Extensions.dll.config
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication.Tests.Unit\obj\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.csprojResolveAssemblyReference.cache
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication.Tests.Unit\obj\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.csproj.CoreCompileInputs.cache
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication.Tests.Unit\obj\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.AssemblyInfoInputs.cache
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication.Tests.Unit\obj\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.AssemblyInfo.cs
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication.Tests.Unit\obj\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.dll
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication.Tests.Unit\obj\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.pdb
+C:\Users\AA185298\Source\repos\Chapter9\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\AA185298\Source\repos\Chapter9\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\AA185298\Source\repos\Chapter9\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\AA185298\Source\repos\Chapter9\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.deps.json
+C:\Users\AA185298\Source\repos\Chapter9\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.runtimeconfig.json
+C:\Users\AA185298\Source\repos\Chapter9\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.runtimeconfig.dev.json
+C:\Users\AA185298\Source\repos\Chapter9\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.dll
+C:\Users\AA185298\Source\repos\Chapter9\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.pdb
+C:\Users\AA185298\Source\repos\Chapter9\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\LoanApplication.Core.dll
+C:\Users\AA185298\Source\repos\Chapter9\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\LoanApplication.dll
+C:\Users\AA185298\Source\repos\Chapter9\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\LoanApplication.Core.pdb
+C:\Users\AA185298\Source\repos\Chapter9\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\LoanApplication.pdb
+C:\Users\AA185298\Source\repos\Chapter9\LoanApplication.Tests.Unit\obj\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.csprojResolveAssemblyReference.cache
+C:\Users\AA185298\Source\repos\Chapter9\LoanApplication.Tests.Unit\obj\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.csproj.CoreCompileInputs.cache
+C:\Users\AA185298\Source\repos\Chapter9\LoanApplication.Tests.Unit\obj\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.AssemblyInfoInputs.cache
+C:\Users\AA185298\Source\repos\Chapter9\LoanApplication.Tests.Unit\obj\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.AssemblyInfo.cs
+C:\Users\AA185298\Source\repos\Chapter9\LoanApplication.Tests.Unit\obj\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.csproj.CopyComplete
+C:\Users\AA185298\Source\repos\Chapter9\LoanApplication.Tests.Unit\obj\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.dll
+C:\Users\AA185298\Source\repos\Chapter9\LoanApplication.Tests.Unit\obj\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.pdb
+C:\Users\AA185298\Source\repos\Chapter9\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\Extensions.dll
+C:\Users\AA185298\Source\repos\Chapter9\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\Extensions.pdb
+C:\Users\AA185298\Source\repos\Chapter9\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\Extensions.dll.config
+C:\Users\AA185298\Source\repos\Chapter7\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\AA185298\Source\repos\Chapter7\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\AA185298\Source\repos\Chapter7\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\AA185298\Source\repos\Chapter7\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.deps.json
+C:\Users\AA185298\Source\repos\Chapter7\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.runtimeconfig.json
+C:\Users\AA185298\Source\repos\Chapter7\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.runtimeconfig.dev.json
+C:\Users\AA185298\Source\repos\Chapter7\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.dll
+C:\Users\AA185298\Source\repos\Chapter7\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.pdb
+C:\Users\AA185298\Source\repos\Chapter7\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\Extensions.dll
+C:\Users\AA185298\Source\repos\Chapter7\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\LoanApplication.Core.dll
+C:\Users\AA185298\Source\repos\Chapter7\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\LoanApplication.dll
+C:\Users\AA185298\Source\repos\Chapter7\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\Extensions.pdb
+C:\Users\AA185298\Source\repos\Chapter7\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\Extensions.dll.config
+C:\Users\AA185298\Source\repos\Chapter7\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\LoanApplication.Core.pdb
+C:\Users\AA185298\Source\repos\Chapter7\LoanApplication.Tests.Unit\bin\Debug\netcoreapp2.0\LoanApplication.pdb
+C:\Users\AA185298\Source\repos\Chapter7\LoanApplication.Tests.Unit\obj\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.csprojResolveAssemblyReference.cache
+C:\Users\AA185298\Source\repos\Chapter7\LoanApplication.Tests.Unit\obj\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.csproj.CoreCompileInputs.cache
+C:\Users\AA185298\Source\repos\Chapter7\LoanApplication.Tests.Unit\obj\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.AssemblyInfoInputs.cache
+C:\Users\AA185298\Source\repos\Chapter7\LoanApplication.Tests.Unit\obj\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.AssemblyInfo.cs
+C:\Users\AA185298\Source\repos\Chapter7\LoanApplication.Tests.Unit\obj\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.csproj.CopyComplete
+C:\Users\AA185298\Source\repos\Chapter7\LoanApplication.Tests.Unit\obj\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.dll
+C:\Users\AA185298\Source\repos\Chapter7\LoanApplication.Tests.Unit\obj\Debug\netcoreapp2.0\LoanApplication.Tests.Unit.pdb

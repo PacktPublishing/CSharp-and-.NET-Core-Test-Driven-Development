@@ -1,0 +1,39 @@
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication.Tests.Unit\bin\Release\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication.Tests.Unit\bin\Release\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication.Tests.Unit\bin\Release\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication.Tests.Unit\bin\Release\netcoreapp2.0\LoanApplication.Tests.Unit.deps.json
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication.Tests.Unit\bin\Release\netcoreapp2.0\LoanApplication.Tests.Unit.runtimeconfig.json
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication.Tests.Unit\bin\Release\netcoreapp2.0\LoanApplication.Tests.Unit.runtimeconfig.dev.json
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication.Tests.Unit\bin\Release\netcoreapp2.0\LoanApplication.Tests.Unit.dll
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication.Tests.Unit\bin\Release\netcoreapp2.0\LoanApplication.Tests.Unit.pdb
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication.Tests.Unit\bin\Release\netcoreapp2.0\Extensions.dll
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication.Tests.Unit\bin\Release\netcoreapp2.0\LoanApplication.Core.dll
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication.Tests.Unit\bin\Release\netcoreapp2.0\LoanApplication.dll
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication.Tests.Unit\bin\Release\netcoreapp2.0\Extensions.pdb
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication.Tests.Unit\bin\Release\netcoreapp2.0\LoanApplication.Core.pdb
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication.Tests.Unit\bin\Release\netcoreapp2.0\LoanApplication.pdb
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication.Tests.Unit\obj\Release\netcoreapp2.0\LoanApplication.Tests.Unit.csproj.CoreCompileInputs.cache
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication.Tests.Unit\obj\Release\netcoreapp2.0\LoanApplication.Tests.Unit.AssemblyInfoInputs.cache
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication.Tests.Unit\obj\Release\netcoreapp2.0\LoanApplication.Tests.Unit.AssemblyInfo.cs
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication.Tests.Unit\obj\Release\netcoreapp2.0\LoanApplication.Tests.Unit.dll
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication.Tests.Unit\obj\Release\netcoreapp2.0\LoanApplication.Tests.Unit.pdb
+G:\Chapter8\LoanApplication.Tests.Unit\bin\Release\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+G:\Chapter8\LoanApplication.Tests.Unit\bin\Release\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+G:\Chapter8\LoanApplication.Tests.Unit\bin\Release\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+G:\Chapter8\LoanApplication.Tests.Unit\bin\Release\netcoreapp2.0\LoanApplication.Tests.Unit.deps.json
+G:\Chapter8\LoanApplication.Tests.Unit\bin\Release\netcoreapp2.0\LoanApplication.Tests.Unit.runtimeconfig.json
+G:\Chapter8\LoanApplication.Tests.Unit\bin\Release\netcoreapp2.0\LoanApplication.Tests.Unit.runtimeconfig.dev.json
+G:\Chapter8\LoanApplication.Tests.Unit\bin\Release\netcoreapp2.0\LoanApplication.Tests.Unit.dll
+G:\Chapter8\LoanApplication.Tests.Unit\bin\Release\netcoreapp2.0\LoanApplication.Tests.Unit.pdb
+G:\Chapter8\LoanApplication.Tests.Unit\bin\Release\netcoreapp2.0\Extensions.dll
+G:\Chapter8\LoanApplication.Tests.Unit\bin\Release\netcoreapp2.0\LoanApplication.Core.dll
+G:\Chapter8\LoanApplication.Tests.Unit\bin\Release\netcoreapp2.0\LoanApplication.dll
+G:\Chapter8\LoanApplication.Tests.Unit\bin\Release\netcoreapp2.0\Extensions.pdb
+G:\Chapter8\LoanApplication.Tests.Unit\bin\Release\netcoreapp2.0\LoanApplication.Core.pdb
+G:\Chapter8\LoanApplication.Tests.Unit\bin\Release\netcoreapp2.0\LoanApplication.pdb
+G:\Chapter8\LoanApplication.Tests.Unit\obj\Release\netcoreapp2.0\LoanApplication.Tests.Unit.csproj.CoreCompileInputs.cache
+G:\Chapter8\LoanApplication.Tests.Unit\obj\Release\netcoreapp2.0\LoanApplication.Tests.Unit.AssemblyInfoInputs.cache
+G:\Chapter8\LoanApplication.Tests.Unit\obj\Release\netcoreapp2.0\LoanApplication.Tests.Unit.AssemblyInfo.cs
+G:\Chapter8\LoanApplication.Tests.Unit\obj\Release\netcoreapp2.0\LoanApplication.Tests.Unit.csproj.CopyComplete
+G:\Chapter8\LoanApplication.Tests.Unit\obj\Release\netcoreapp2.0\LoanApplication.Tests.Unit.dll
+G:\Chapter8\LoanApplication.Tests.Unit\obj\Release\netcoreapp2.0\LoanApplication.Tests.Unit.pdb
