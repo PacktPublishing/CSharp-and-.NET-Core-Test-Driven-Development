@@ -1,0 +1,33 @@
+C:\Users\ayobami\book\LoanApplication\NUnitTest\obj\Debug\netcoreapp2.0\NUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\ayobami\book\LoanApplication\NUnitTest\obj\Debug\netcoreapp2.0\NUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\ayobami\book\LoanApplication\NUnitTest\obj\Debug\netcoreapp2.0\NUnitTest.AssemblyInfoInputs.cache
+C:\Users\ayobami\book\LoanApplication\NUnitTest\obj\Debug\netcoreapp2.0\NUnitTest.AssemblyInfo.cs
+C:\Users\ayobami\book\LoanApplication\NUnitTest\bin\Debug\netcoreapp2.0\NUnitTest.deps.json
+C:\Users\ayobami\book\LoanApplication\NUnitTest\bin\Debug\netcoreapp2.0\NUnitTest.dll
+C:\Users\ayobami\book\LoanApplication\NUnitTest\bin\Debug\netcoreapp2.0\LoanApplication.Core.dll
+C:\Users\ayobami\book\LoanApplication\NUnitTest\bin\Debug\netcoreapp2.0\LoanApplication.dll
+C:\Users\ayobami\book\LoanApplication\NUnitTest\bin\Debug\netcoreapp2.0\LoanApplication.pdb
+C:\Users\ayobami\book\LoanApplication\NUnitTest\bin\Debug\netcoreapp2.0\LoanApplication.Core.pdb
+C:\Users\ayobami\book\LoanApplication\NUnitTest\bin\Debug\netcoreapp2.0\NUnitTest.pdb
+C:\Users\ayobami\book\LoanApplication\NUnitTest\obj\Debug\netcoreapp2.0\NUnitTest.dll
+C:\Users\ayobami\book\LoanApplication\NUnitTest\obj\Debug\netcoreapp2.0\NUnitTest.pdb
+C:\Users\ayobami\book\LoanApplication\NUnitTest\bin\Debug\netcoreapp2.0\NUnitTest.runtimeconfig.json
+C:\Users\ayobami\book\LoanApplication\NUnitTest\bin\Debug\netcoreapp2.0\NUnitTest.runtimeconfig.dev.json
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\NUnitTest\bin\Debug\netcoreapp2.0\NUnitTest.deps.json
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\NUnitTest\bin\Debug\netcoreapp2.0\NUnitTest.runtimeconfig.json
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\NUnitTest\bin\Debug\netcoreapp2.0\NUnitTest.runtimeconfig.dev.json
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\NUnitTest\bin\Debug\netcoreapp2.0\NUnitTest.dll
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\NUnitTest\bin\Debug\netcoreapp2.0\NUnitTest.pdb
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\NUnitTest\bin\Debug\netcoreapp2.0\LoanApplication.Core.dll
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\NUnitTest\bin\Debug\netcoreapp2.0\LoanApplication.dll
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\NUnitTest\bin\Debug\netcoreapp2.0\LoanApplication.pdb
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\NUnitTest\bin\Debug\netcoreapp2.0\LoanApplication.Core.pdb
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\NUnitTest\obj\Debug\netcoreapp2.0\NUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\NUnitTest\obj\Debug\netcoreapp2.0\NUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\NUnitTest\obj\Debug\netcoreapp2.0\NUnitTest.AssemblyInfoInputs.cache
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\NUnitTest\obj\Debug\netcoreapp2.0\NUnitTest.AssemblyInfo.cs
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\NUnitTest\obj\Debug\netcoreapp2.0\NUnitTest.dll
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\NUnitTest\obj\Debug\netcoreapp2.0\NUnitTest.pdb
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\NUnitTest\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\NUnitTest\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\NUnitTest\bin\Debug\netcoreapp2.0\Mono.Cecil.dll

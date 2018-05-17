@@ -1,0 +1,16 @@
+C:\Users\ayobami\book\LoanApplication\MsTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ayobami\book\LoanApplication\MsTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ayobami\book\LoanApplication\MsTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ayobami\book\LoanApplication\MsTest\bin\Debug\netcoreapp2.0\MsTest.deps.json
+C:\Users\ayobami\book\LoanApplication\MsTest\bin\Debug\netcoreapp2.0\MsTest.runtimeconfig.json
+C:\Users\ayobami\book\LoanApplication\MsTest\bin\Debug\netcoreapp2.0\MsTest.runtimeconfig.dev.json
+C:\Users\ayobami\book\LoanApplication\MsTest\bin\Debug\netcoreapp2.0\MsTest.dll
+C:\Users\ayobami\book\LoanApplication\MsTest\bin\Debug\netcoreapp2.0\MsTest.pdb
+C:\Users\ayobami\book\LoanApplication\MsTest\bin\Debug\netcoreapp2.0\LoanApplication.Core.dll
+C:\Users\ayobami\book\LoanApplication\MsTest\bin\Debug\netcoreapp2.0\LoanApplication.Core.pdb
+C:\Users\ayobami\book\LoanApplication\MsTest\obj\Debug\netcoreapp2.0\MsTest.csprojResolveAssemblyReference.cache
+C:\Users\ayobami\book\LoanApplication\MsTest\obj\Debug\netcoreapp2.0\MsTest.csproj.CoreCompileInputs.cache
+C:\Users\ayobami\book\LoanApplication\MsTest\obj\Debug\netcoreapp2.0\MsTest.AssemblyInfoInputs.cache
+C:\Users\ayobami\book\LoanApplication\MsTest\obj\Debug\netcoreapp2.0\MsTest.AssemblyInfo.cs
+C:\Users\ayobami\book\LoanApplication\MsTest\obj\Debug\netcoreapp2.0\MsTest.dll
+C:\Users\ayobami\book\LoanApplication\MsTest\obj\Debug\netcoreapp2.0\MsTest.pdb
